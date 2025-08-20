@@ -1,7 +1,23 @@
 # My3MatchPuzzle
 
-[3매치퍼즐 시연영상](https://youtu.be/r1-vaoTmXc4)
+[![시연 영상](https://img.youtube.com/vi/r1-vaoTmXc4/0.jpg)](https://www.youtube.com/watch?v=r1-vaoTmXc4)
 
+기본 매치 퍼즐 구조를 익히기 위해 제작한 Unity 게임입니다.
+
+## 주요 기능
+- 같은 색 블록 3개 매치 시 제거
+- 블록 낙하 및 보드 자동 보충
+- 간단한 점수 시스템
+
+## 실행 방법
+1. `git clone ...`
+2. Unity 2022.3.30f1 에서 열기
+3. 실행 및 테스트 가능
+
+
+## 기술 스택
+- Unity 2D, C#
+- GitHub
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
